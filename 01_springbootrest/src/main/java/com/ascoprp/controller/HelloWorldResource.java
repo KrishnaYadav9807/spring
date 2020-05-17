@@ -16,7 +16,7 @@ public class HelloWorldResource {
 
 	@GetMapping(path = "/hellobean")
 	public HelloBean printHelloBean() {
-		return new HelloBean("Hello Message...sasas.xaxa..");
+		return new HelloBean("Hello Message.sa..sasas.xaxa..");
 	}
 	
 	// /hellobean/pathvariable/krishna
